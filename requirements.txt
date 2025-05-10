@@ -1,0 +1,14 @@
+git+https://github.com/m-bain/whisperX.git@9e3a9e0e38fcec1304e1784381059a0e2c670be5
+ctranslate2==4.5.0
+torch==2.5.1
+torchaudio==2.5.1
+torchvision==0.20.1
+pydub
+pyannote.audio
+numpy==1.26.4
+tqdm
+librosa
+pandas
+onnxruntime-gpu==1.20.0
+pyarrow
+nvidia-cuda-nvrtc-cu12==12.4.127
