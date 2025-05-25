@@ -34,7 +34,7 @@ LD_LIBRARY_PATH="$(pwd)/emilia/lib/python3.10/site-packages/nvidia/cudnn/lib" \
   --whisper_arch large-v3
 ```
 
-### Multi-GPUS
+### Multi-GPUs
 
 Multi-GPUs with auto split, I run command below,
 
